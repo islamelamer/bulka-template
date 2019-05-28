@@ -1,0 +1,272 @@
+/*general*/
+
+
+@font-face {
+	font-family: ka;
+
+	src: url(../fonts/Kaushan_Script/KaushanScript-Regular.ttf);
+}
+
+
+
+
+
+@font-face {
+	font-family: lato;
+
+	src: url(../fonts/Lato-Regular.ttf);
+}
+
+
+
+
+p {
+
+
+	font-family: lato;
+
+
+
+}
+
+
+
+
+
+
+
+body {
+
+	font-family: sans-serif;
+
+
+}
+
+
+
+.ka {
+
+
+	font-family: ka;
+
+
+	color: #ff0f00 !important;
+
+
+
+}
+
+
+
+
+
+
+.table {
+
+
+	display: table;
+
+	width: 100%;
+
+
+
+
+
+
+}
+
+.cell {
+
+
+
+	display: table-cell;
+
+
+
+	vertical-align: top;
+
+
+
+
+
+}
+
+.row {
+
+
+	display: table-row;
+
+
+
+	/*	width: 100%; */
+
+
+}
+
+
+
+.in_line_b {
+
+	display: inline-block;
+
+
+}
+
+
+
+body {
+
+	margin: 0;
+
+
+}
+
+
+
+ul {
+
+	margin: 0;
+
+	padding: 0;
+
+
+
+}
+
+ul li{
+	
+
+	display: inline-block; 
+	
+}
+
+
+
+
+.container {
+
+
+
+	margin: 0 auto;
+
+	width: 80%;
+	/*islam*/
+
+
+
+}
+
+
+
+
+.main-color {
+
+
+
+	background-color: #47516f;
+
+
+}
+
+
+.main-font-color {
+
+
+	color: #47516f;
+
+
+}
+
+
+
+
+.second-color {
+
+	background-color: #f2f1f1;
+
+
+
+}
+
+.clear {
+
+	clear: both;
+
+
+
+
+}
+
+
+
+
+
+h1,
+h2,
+p {
+
+	margin: 0;
+
+	padding: 0;
+
+}
+
+
+.v-t {
+
+
+	vertical-align: top;
+
+}
+
+
+.clear {
+
+	clear: both;
+
+}
+
+
+.dark-text {
+
+	color: #303233;
+
+}
+
+.soft-text {
+
+	color: #7a7a7a;
+
+}
+
+
+
+.bt {
+
+
+	padding: 10px 40px;
+
+	border: 0;
+
+	color: #303233;
+
+	background-color: #fff;
+
+	border: 1px solid #303233;
+	text-transform: uppercase;
+
+	color: #303233;
+
+
+	font-weight: bold;
+
+	display: block;
+
+
+	/*	box-shadow: 0.5px 0.5px 0.5px 0.5px ; */
+
+
+}
+
+
+/*end general*/
